@@ -9,7 +9,8 @@ const Featured = () => {
             <div className={styles.container}>
                 <div className={styles.text_wrapper}>
                     <div className={styles.title}>
-                        Fasinii
+                        <div></div>
+                        <Image src="/img/logo.png" width="200" height="150" alt="logo"/>
                     </div>
                     <div className={styles.subtitle}>
                         For more information, 
